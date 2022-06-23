@@ -18,5 +18,5 @@ The style.css file contains the styling for the page and demonstrates the use of
 The CSS file contains comments for certain code within that file. 
 
 ### Link to Webpage: 
-
+https://savannahfausto.github.io/CSS_Snippets_CheatSheet/
 
